@@ -1,0 +1,32 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+  text-align: center; 
+}
+
+.contenedor > article {
+  margin-bottom: 20px; 
+}
+
+.imagen {
+  width: 100%; 
+  max-width: 600px; 
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+footer {
+  padding-top: 80px;
+}
+
+
